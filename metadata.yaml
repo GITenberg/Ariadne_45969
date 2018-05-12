@@ -1,0 +1,33 @@
+_repo: Ariadne_45969
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45969-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gréville, Henry
+    aliases:
+    - Greville, Henry
+    - Durand, Alice Marie Céleste Fleury
+    - Gréville, Henri
+    - Durand, Alice Marie Celeste Fleury
+    birthdate: 1842
+    deathdate: 1902
+    gutenberg_agent_id: '26238'
+    url: http://www.gutenberg.org/2009/agents/26238
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Gr%C3%A9ville
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45969'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: Ariadne
+url: http://www.gutenberg.org/ebooks/45969
